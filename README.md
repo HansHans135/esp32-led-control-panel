@@ -63,7 +63,7 @@ GND        →  GND
 3. 添加電容器和電阻保護電路
 
 ### 2. 程式上傳
-1. 開啟 `led.ino` 在Arduino IDE中
+1. 開啟 `led/led.ino` 在Arduino IDE中
 2. 選擇正確的ESP32開發板
 3. 上傳程式到ESP32
 
